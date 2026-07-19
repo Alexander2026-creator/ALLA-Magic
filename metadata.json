@@ -1,0 +1,6 @@
+{
+  "name": "Remix: React Parallax Scroll Effect",
+  "description": "A visually appealing web application demonstrating a parallax scrolling effect using React and Tailwind CSS. It features multiple sections with fixed background images that create a sense of depth as the user scrolls through the content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
